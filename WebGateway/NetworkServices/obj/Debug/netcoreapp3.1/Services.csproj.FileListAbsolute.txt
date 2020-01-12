@@ -1,0 +1,11 @@
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\stmih\Desktop\Microservices-Demo\WebGateway\NetworkServices\obj\Debug\netcoreapp3.1\Services.pdb

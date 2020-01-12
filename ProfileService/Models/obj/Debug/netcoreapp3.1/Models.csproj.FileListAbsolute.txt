@@ -1,0 +1,7 @@
+C:\Users\stmih\Desktop\Microservices-Demo\ProfileService\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\stmih\Desktop\Microservices-Demo\ProfileService\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\stmih\Desktop\Microservices-Demo\ProfileService\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\stmih\Desktop\Microservices-Demo\ProfileService\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\stmih\Desktop\Microservices-Demo\ProfileService\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\stmih\Desktop\Microservices-Demo\ProfileService\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\stmih\Desktop\Microservices-Demo\ProfileService\Models\obj\Debug\netcoreapp3.1\Models.pdb

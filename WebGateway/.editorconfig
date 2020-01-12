@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0658: Not a recognized attribute location
+dotnet_diagnostic.CS0658.severity = none
