@@ -35,7 +35,9 @@
                 },
             };
 
-            return fakeDB.Where(p => p.Id == id).FirstOrDefault();
+            return fakeDB
+                .Where(p => p.Id == id)
+                .FirstOrDefault();
         }
     }
 }

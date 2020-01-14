@@ -1,12 +1,11 @@
 ﻿namespace Services.Serives
 {
+    using global::Services.Configuration;
+    using global::Services.Interfaces;
     using Models.ViewModels.Profile;
     using Newtonsoft.Json;
-    using Services.Configuration;
-    using Services.Interfaces;
     using System.Net.Http;
     using System.Threading.Tasks;
-
     public class ProfileService : IProfileService
     {
         private readonly HttpClient httpClient;
