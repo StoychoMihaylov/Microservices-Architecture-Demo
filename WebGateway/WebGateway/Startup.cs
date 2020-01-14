@@ -8,6 +8,7 @@ namespace WebGateway
     using Services.Configuration;
     using Services.Interfaces;
     using Services.Serives;
+    using Services.Services;
     using System.Net.Http;
 
     public class Startup
@@ -31,6 +32,7 @@ namespace WebGateway
 
             // DI
             services.AddTransient<IProfileService, ProfileService>();
+            services.AddTransient<IBlogService, BlogService>();
             services.AddSingleton<HttpClient>(new HttpClient());
             services.AddSingleton<MicroserviceConfig>(new MicroserviceConfig());
         }
